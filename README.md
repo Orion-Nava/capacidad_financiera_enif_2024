@@ -1,3 +1,5 @@
+# (EN PROCESO DE MEJORA...)
+
 # Clasificación de la Capacidad Financiera con Datos de la ENIF 2024
 
 Este proyecto implementa una metodología para clasificar la **capacidad financiera** de las personas utilizando datos de la Encuesta Nacional de Inclusión Financiera (ENIF) 2024 del INEGI. Dado que no existe una variable directa que mida esta capacidad, se propone una estrategia basada en técnicas de reducción de dimensión y codificación de variables categóricas para construir un índice sintético.
